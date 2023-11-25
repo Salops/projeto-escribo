@@ -1,8 +1,7 @@
+| Tela Inicial  | Tela Favoritos |
+| ------------- | ------------- |
+| ![Screenshot_1700886027](https://github.com/Salops/projeto-escribo/assets/104448348/b3910261-4e00-442d-a3d4-57d2a870efeb) | ![Screenshot_1700886031](https://github.com/Salops/projeto-escribo/assets/104448348/34516a17-15b4-4c78-973d-6312b3d35b89)|
 
-![Screenshot_1700886027](https://github.com/Salops/projeto-escribo/assets/104448348/6111a863-753a-4c4a-8078-4e27cf60dac8)
-![Screenshot_1700886031](https://github.com/Salops/projeto-escribo/assets/104448348/7440d895-1bca-4950-8004-9b091d1f1bc3)
-![Screenshot_1700886058](https://github.com/Salops/projeto-escribo/assets/104448348/fdeb7602-6f64-41f6-914f-4ccdd7140063)
-![Screenshot_1700886041](https://github.com/Salops/projeto-escribo/assets/104448348/d2428615-697b-4d7a-af82-30383159839c)
 
 
 
