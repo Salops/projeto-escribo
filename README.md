@@ -1,16 +1,35 @@
-# projeto_escribo
+# Projeto Escribo 
 
-A new Flutter project.
+## 💻 Projeto
 
-## Getting Started
+Desenvolver uma aplicativo para leituras de eBooks que ofereça uma experiência interativa e fácil de usar para os usuários.
 
-This project is a starting point for a Flutter application.
+### Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- [x] **Baixar listas de Livros e Capas**: Acessar a API para baixar lista atualizada de livros e suas respectivas capas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [x] **Estante de Livros**: Exibir as capas dos livros baixados de forma organizada em uma estante virtual.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] **Download e armazenamento de Livros**: Permitir que o usuário baixe um livro em sua capa e salve o aplicativo no dispositivo.
+
+- [x] **Exibição de Livros**: Utilizando um plugin Vocsy Epub Viewer.
+
+- [x] **Favoritos**: Aba onde os usuários ao salvarem seus livrvos favoritos apareçam.
+
+
+## :rocket: Tecnologias
+
+-  [Vue](https://vuejs.org/)
+-  [Quasar](https://quasar.dev/)
+-  [Axios](https://github.com/axios/axios)
+
+## 📥 Instalação e execução
+
+```bash
+# Instalando as dependências
+$ npm install
+
+# Executanto aplicação
+$ quasar dev
+
+```
