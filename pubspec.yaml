@@ -1,0 +1,54 @@
+name: projeto_escribo
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.2.1
+  shared_preferences: ^2.2.2
+  mobx: ^2.2.1
+  flutter_mobx: ^2.1.1
+  provider: ^6.1.1
+  dio: ^5.3.4
+  vocsy_epub_viewer: ^2.0.0
+  cached_network_image: ^3.3.0
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.9
+  fluttertoast: ^8.2.4
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  mobx_codegen: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/fonts/
+  - assets/images/
+
+  fonts:
+    - family: Basic
+      fonts:
+        - asset: assets/fonts/Basic-SansThin.otf
+          weight: 200
+        - asset: assets/fonts/Basic-Sans-ExtraLight.otf
+          weight: 300
+        - asset: assets/fonts/Basic-Sans-Light.otf
+          weight: 400
+        - asset: assets/fonts/Basic-Sans-Regular.otf
+          weight: 500
+        - asset: assets/fonts/Basic-Sans-SemiBold.otf
+          weight: 600
+        - asset: assets/fonts/Basic-Sans-Bold.otf
+          weight: 700
+        - asset: assets/fonts/Basic-Sans-Black.otf
+          weight: 800
