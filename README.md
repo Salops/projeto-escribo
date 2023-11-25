@@ -1,7 +1,8 @@
-![Screenshot_1700886027](https://github.com/Salops/projeto-escribo/assets/104448348/93ec3c93-8089-4aa4-b9ad-f982a617accc)
-![Screenshot_1700886058](https://github.com/Salops/projeto-escribo/assets/104448348/dc0025db-e3d8-4a50-9ce7-1c9e82e25116)
-![Screenshot_1700886041](https://github.com/Salops/projeto-escribo/assets/104448348/7dbb1c90-0ee5-4d28-9521-ae469335e4c2)
-![Screenshot_1700886031](https://github.com/Salops/projeto-escribo/assets/104448348/5b98f460-a7ca-45ef-be60-06a9fa4bdb71)
+
+![Screenshot_1700886027](https://github.com/Salops/projeto-escribo/assets/104448348/6111a863-753a-4c4a-8078-4e27cf60dac8)
+![Screenshot_1700886031](https://github.com/Salops/projeto-escribo/assets/104448348/7440d895-1bca-4950-8004-9b091d1f1bc3)
+![Screenshot_1700886058](https://github.com/Salops/projeto-escribo/assets/104448348/fdeb7602-6f64-41f6-914f-4ccdd7140063)
+![Screenshot_1700886041](https://github.com/Salops/projeto-escribo/assets/104448348/d2428615-697b-4d7a-af82-30383159839c)
 
 
 
